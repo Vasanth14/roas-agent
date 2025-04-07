@@ -1,0 +1,9 @@
+CustomerID,Name,Age,Gender,Email,Campaign,Clicks,Impressions,Spent,Converted
+1001,John Doe,34,M,john@example.com,Summer Sale,5,200,35.00,Yes
+1002,Jane Smith,28,F,jane@example.com,Winter Promo,3,150,20.50,No
+1003,Bob Johnson,45,M,bob@example.com,Holiday Deals,8,300,55.20,Yes
+1004,Alice Brown,31,F,alice@example.com,Summer Sale,2,120,15.75,No
+1005,Charlie Davis,39,M,charlie@example.com,Black Friday,10,500,80.00,Yes
+1006,Susan Lee,26,F,susan@example.com,Winter Promo,1,90,12.00,No
+1007,David Wilson,52,M,david@example.com,Holiday Deals,6,250,45.00,Yes
+1008,Linda White,37,F,linda@example.com,Black Friday,4,210,30.00,No
